@@ -14,6 +14,7 @@
   "documentation": "https://github.com/submarcos/hassio-ecoflow",
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/submarcos/hassio-ecoflow/issues",
+  "quality_scale": "silver",
   "requirements": [
     "reactivex"
   ],
